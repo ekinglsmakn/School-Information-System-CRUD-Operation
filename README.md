@@ -1,2 +1,2 @@
 # Java-SpringBoot-Okul-Projesi
- Web
+ Java Spring Boot ile yapılan web projesinin back end kodları
